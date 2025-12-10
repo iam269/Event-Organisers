@@ -6,6 +6,10 @@ A modern, responsive website for event planning and organization services built 
 
 This is a professional event planning website featuring a clean, modern design with interactive elements. The site showcases various event services including wedding planning, corporate events, birthday parties, concerts, and more.
 
+## 🌐 Live Demo
+
+Check out the live version: [https://iam269.github.io/Event-Organisers/](https://iam269.github.io/Event-Organisers/)
+
 ## ✨ Features
 
 - **Responsive Design**: Fully responsive layout that works on all devices
